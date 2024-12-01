@@ -63,6 +63,9 @@ flutter:
     - assets/tshirt.jpg
     - assets/shoes.jpg
     - assets/jacket.jpg
+    - assets/sweater.jpg
+    - assets/hat.jpg
+    - assets/gloves.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images

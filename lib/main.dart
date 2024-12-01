@@ -17,9 +17,12 @@ class MyApp extends StatelessWidget {
 
 class HomeScreen extends StatelessWidget {
   final List<Product> products = [
-    Product('Mаица', 'assets/tshirt.jpg', 'Квалитетна памучна маица.', 1200),
-    Product('Патики', 'assets/shoes.jpg', 'Спортски патики за трчање.', 4000),
-    Product('Јакна', 'assets/jacket.jpg', 'Топла зимска јакна.', 5000),
+    Product('Mаица', 'assets/tshirt.jpg', 'Квалитетна памучна маица.', 1199),
+    Product('Патики', 'assets/shoes.jpg', 'Спортски патики за трчање.', 3999),
+    Product('Јакна', 'assets/jacket.jpg', 'Топла зимска јакна.', 4999),
+    Product('Џемпер', 'assets/sweater.jpg', 'Пријатен зимски џемпер.', 1499),
+    Product('Зимска капа', 'assets/hat.jpg', 'Топла плетена зимска капа.', 399),
+    Product('Нараквици за снег', 'assets/gloves.jpg', 'Издржливи изолирани ракавици за снег.', 799),
   ];
 
   @override
